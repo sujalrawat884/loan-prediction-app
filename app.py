@@ -8,7 +8,7 @@ import seaborn as sns
 st.markdown("""
     <style>
       [data-testid="stAppViewContainer"] {
-        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsxNgGr_Qu3Z0NW1WUZFXp6grRis7eK5grQ&s");
+        background-image: url("https://miro.medium.com/v2/resize:fit:1400/0*noALsKug1DY2oLa-");
         background-size: cover;
       }
       [data-testid="stHeader"] {
