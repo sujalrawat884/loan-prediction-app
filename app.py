@@ -7,10 +7,6 @@ import seaborn as sns
 
 st.markdown("""
     <style>
-      [data-testid="stAppViewContainer"] {
-        background-image: url("https://miro.medium.com/v2/resize:fit:1400/0*noALsKug1DY2oLa-");
-        background-size: cover;
-      }
       [data-testid="stHeader"] {
         background-color: rgba(0, 0, 0, 0);  
       }
