@@ -41,7 +41,7 @@ This project is a **Loan Approval Prediction Web Application** built using **Str
 ## ▶️ How to Run the Application
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/loan-approval-prediction.git
+git clone https://github.com/sujalrawat884/loan-approval-prediction.git
 cd loan-approval-prediction
 ```
 
@@ -117,5 +117,5 @@ For any inquiries or questions, reach out via GitHub Issues.
 ---
 
 ## 🔗 GitHub Repository
-[Loan Prediction Web App Repository](https://github.com/your-username/loan-approval-prediction)
+[Loan Prediction Web App Repository](https://github.com/sujalrawat884/loan-approval-prediction)
 
